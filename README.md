@@ -1,0 +1,6 @@
+# Bash script for jenkins pipeline test
+
+..................
+
+bash kamal.sh
+..................
